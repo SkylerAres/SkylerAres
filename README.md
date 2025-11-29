@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SkylerAres
-- 👀 I’m interested in ethical hacking and pentesting
+- 👀 Interested in ethical hacking and pentesting
 - 🌱 I’m currently taking French lessons on Duolingo
-- 💞️ I’m looking to collaborate on any projects whatsoever
+- 💞️ looking to collaborate on any projects whatsoever
 - 📫 Reach me at skylerduo@gmail.com
 - 😄 Pronouns: He/his/him
-- ⚡ Fun fact: I once broke into a dental clinic's database when I was still new to pentesting
+- ⚡ Fun fact: once broke into a dental clinic's database when I was still new to pentesting
