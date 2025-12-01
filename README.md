@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkylerAres
 - 👀 Interested in ethical hacking and pentesting
-- 🌱 I’m currently taking French lessons on Duolingo
+- 🌱 learning to speak French.
 - 💞️ looking to collaborate on any projects whatsoever
 - 📫 Reach me at skylerduo@gmail.com
 - 😄 Pronouns: He/his/him
