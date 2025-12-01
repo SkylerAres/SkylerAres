@@ -2,6 +2,6 @@
 - 👀 Interested in ethical hacking and pentesting
 - 🌱 learning to speak French.
 - 💞️ looking to collaborate on any projects whatsoever
-- 📫 Reach me at skylerduo@gmail.com
+- 📫 Reach me here: skylerduo@gmail.com
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: once broke into a dental clinic's database when I was still new to pentesting
